@@ -1,0 +1,19 @@
+h1{
+    background-color: burlywood;
+}
+body{
+    background-color: antiquewhite;
+}
+.welcome{
+    font-size: x-large;
+    word-spacing: 0.5cm;
+}
+span{
+    display: inline-block;
+    display: flex;
+    padding-left: 14cm;
+}
+span img{
+    vertical-align: middle;
+    margin: 0 10px;
+}
